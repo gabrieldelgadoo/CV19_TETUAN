@@ -49,13 +49,13 @@ Las Punzones en cuando se imprimen se tienen que cambiar de Escala 98% a 104%, d
 ##### Como montar el Punzon 1 en la Visera
 
 <p align="left">
-  <img width="300" src="https://github.com/gabrieldelgadoo/CV19_TETUAN/blob/master/gif/punzones1.gif">
+  <img width="300" src="gif/punzones1.gif">
 </p>
 
 ##### Como tiene que ser el Punzon LH en la Visera
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
-<iframe src="https://youtu.be/sJSS7nHbj0w" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+<iframe src="http://www.youtube.com/embed/sJSS7nHbj0w" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
 </div>
 
 ##### Sujecciones Pantalla Acetato ????
