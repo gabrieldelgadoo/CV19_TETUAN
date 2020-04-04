@@ -1,0 +1,9 @@
+site_name: CV_19_Tetuan
+theme: 'readthedocs'
+
+extra_css: [specific.css]
+
+markdown_extensions:
+    - toc:
+        permalink: "#"
+        separator: "_"
