@@ -54,7 +54,9 @@ Las Punzones en cuando se imprimen se tienen que cambiar de Escala 98% a 104%, d
 
 ##### Como tiene que ser el Punzon LH en la Visera
 
-[![Mira Video en YT](https://img.youtube.com/vi/sJSS7nHbj0w/sddefault.jpg)](https://youtu.be/sJSS7nHbj0w)
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
+<iframe src="https://youtu.be/sJSS7nHbj0w" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+</div>
 
 ##### Sujecciones Pantalla Acetato ????
  Existe pero no lo hemos comprobado y no sabes como tendria que funcionar.
@@ -106,13 +108,13 @@ NO ACCEPTAMOS ESTAS VISERAS PARA ENTREGAS (en Tetuan)
 TEXT: Lejilla, etc. etc.
 
 <p align="left">
-  <img width="356" height="577" src="https://github.com/gabrieldelgadoo/CV19_TETUAN/blob/master/gif/r1.gif">
+  <img width="356" height="577" src="gif/r1.gif">
 </p>
 <p align="left">
-  <img width="356" height="577" src="https://github.com/gabrieldelgadoo/CV19_TETUAN/blob/master/gif/r2.gif">
+  <img width="356" height="577" src="gif/r2.gif">
 </p>
 <p align="left">
-  <img width="356" height="577" src="https://github.com/gabrieldelgadoo/CV19_TETUAN/blob/master/gif/r3.gif">
+  <img width="356" height="577" src="gif/r3.gif">
 </p>
 
 
