@@ -4,7 +4,7 @@ Pagina del Movimiento: [https://covidmadrid.com/](https://covidmadrid.com/)
 
 EPI's -  Impresión 3D
 
-![big](img/corona.png)
+![](img/corona.png)
 
 ## MODELOS para uso Sanitario/Hospitales/Centros de Salud, et.
 
