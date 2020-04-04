@@ -7,3 +7,6 @@ markdown_extensions:
     - toc:
         permalink: "#"
         separator: "_"
+nav:
+- CV19_Tetuan:
+    - Viseras: 'index.md'
