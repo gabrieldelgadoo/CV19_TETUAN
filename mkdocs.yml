@@ -10,5 +10,6 @@ markdown_extensions:
 nav:
 - CV19_Info:
     - Viseras: 'index.md'
+    - Configuraciones: 'configs.md'
 - CV19_Tetuan:
     - MODUS OPERANDI TETUAN: 'entrega.md'
