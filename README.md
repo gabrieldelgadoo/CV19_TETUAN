@@ -58,7 +58,16 @@ NO ACCEPTAMOS ESTAS VISERAS PARA ENTREGAS (en Tetuan)
 
 ## Tests de Resistencia
 
-VIDEOS
+<p align="center">
+  <img width="356" height="577" src="https://github.com/gabrieldelgadoo/CV19_TETUAN/blob/master/gif/r1.gif">
+</p>
+<p align="center">
+  <img width="356" height="577" src="https://github.com/gabrieldelgadoo/CV19_TETUAN/blob/master/gif/r2.gif">
+</p>
+<p align="center">
+  <img width="356" height="577" src="https://github.com/gabrieldelgadoo/CV19_TETUAN/blob/master/gif/r3.gif">
+</p>
+
 
 ## Videos HOWTO
 
