@@ -8,6 +8,9 @@ Los Modelos A + B necesitan Tornillos de M4x8mm o M5x8-10mm o M6x8-10mm de ACERO
 
 Para el uso no sanitario se puede tambien substituir con los Punzones
 Para Tornillos de 15mm longitud existe un adaptador.
+<p align="center">
+  <img width="300" height="240" src="https://github.com/gabrieldelgadoo/CV19_TETUAN/blob/master/Accesorios/adaptador%2015mm.png">
+</p>
 
 ### Madrid Modelo A
 
