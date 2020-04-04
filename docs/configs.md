@@ -10,4 +10,8 @@ Comprobado con Modelo A, GM
 
 ### Ender 3
 
+Comprobado con Modelo A
+
+[Cura Profile](configs/Ender3/Ender_Stock.curaprofile)
+
 
