@@ -77,3 +77,4 @@ NO ACCEPTAMOS ESTAS VISERAS PARA ENTREGAS (en Tetuan)
 </p>
 ### Como tiene que ser el Punzon LH en la Visera
 
+https://github.com/gabrieldelgadoo/CV19_TETUAN/blob/master/videos/colocaci%C3%B3n%20de%20punzones%20(1).mp4
