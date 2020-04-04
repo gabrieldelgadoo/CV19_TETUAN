@@ -3,6 +3,7 @@
 Pagina del Movimiento: [https://covidmadrid.com/](https://covidmadrid.com/)
 
 EPI's -  Impresión 3D
+
 ![big](img/corona.png)
 
 ## MODELOS para uso Sanitario/Hospitales/Centros de Salud, et.
@@ -17,19 +18,21 @@ Para el uso NO SANITARIO se puede tambien substituir con los Punzones
 
 El modelo anteriormente acceptado de la Comunidad de Madrid. Tambien llamado "Version homologada"
 
-<img src="img/Modelo_A.png" width="200px">
+<img src="img/Modelo_A.png"  width="200px">
+
+<img src="img/Modelo_A.png"  width="200px">
 
 ### Madrid Modelo B
 
 El mismo Modelo que la Version A, pero para imprimir en partes para Impresoras mas pequenos o menos fino.
 
-![](img/Modelo_B.png)
+<img src="img/Modelo_B.png"  width="200px">
 
 #### Madrid Modelo B V2
 
 El mismo Modelo que la Version B, solo conjuntado para pequenas Impresoras (20x20cm) y con los "" diferente
 
-![](img/Modelo_B_2.png)
+<img src="img/Modelo_B_2.png"  width="200px">
 
 ### Como montar el Modelo A
 
@@ -43,7 +46,7 @@ NO SE PUEDE USAR PARA EL USO SANITARIO!
 
 Las Punzones en cuando se imprimen se tienen que cambiar de Escala 98% a 104%, depende la maquina. 
 
-![](img/punzones.png)
+<img src="img/punzones.png"  width="200px">
 
 ##### Como montar el Punzon 1 en la Visera
 
@@ -60,37 +63,37 @@ Las Punzones en cuando se imprimen se tienen que cambiar de Escala 98% a 104%, d
  
 EN TETUAN NO SE USA!
 
-![](img/Sujecciones_Pantalla_Acetato.png)
+<img src="img/Sujecciones_Pantalla_Acetato.png"  width="200px">
 
 
 #### Adaptador Tornillos 15mm
 
 Un Adaptador para Tornillos de 15mm. Se mete dentro de la Visera y se aprieta con el Tornillo.
 
-![](img/adaptador_15mm.png)
+<img src="img/adaptador_15mm.png"  width="200px">
 
 ## MODELOS para uso no Sanitario (Residencias, Farmacias, Tiendas, etc)
 
 
 ###  Gregorio Maranon V3
 
-![](img/GM_v3.png)
+<img src="img/GM_v3.png"  width="200px">
 
 ###  Gregorio Maranon V2
 
-![](img/GM_v2.png)
+<img src="img/GM_v2.png"  width="200px">
 
 ###  Visor Europeo V1
 
-![](img/visor_europeo_v1.png)
+<img src="img/visor_europeo_v1.png"  width="200px">
 
 ### Visor Europeo V2.1
 
-![](img/visor_europeo_v2_1.png)
+<img src="img/visor_europeo_v2_1.png"  width="200px">
 
 ### Visera Plana ultima version
 
-![](img/Visera_Plana_1.png)
+<img src="img/Visera_Plana_1.png"  width="200px">
 
 Esta Version no se usa mucho ya porque para fijar las Pantallas PVC se tiene que trabajar con Pegamiento o Soldadura y se quita cuando esta limpiado con Lejilla o Alcool.
 
@@ -98,7 +101,7 @@ NO ACCEPTAMOS ESTAS VISERAS PARA ENTREGAS (en Tetuan)
 
 ### Visor Hibrido
 
-![](img/Visor_Hibrido.png)
+<img src="img/Visor_Hibrido.png"  width="200px">
 
 ## Tests de Resistencia
 
