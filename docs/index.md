@@ -18,19 +18,19 @@ Para el uso NO SANITARIO se puede tambien substituir con los Punzones
 
 El modelo anteriormente acceptado de la Comunidad de Madrid. Tambien llamado "Version homologada"
 
-<img src="img/Modelo_A.png"  width="200px">
+![w20p](img/Modelo_A.png)
 
 ### Madrid Modelo B
 
 El mismo Modelo que la Version A, pero para imprimir en partes para Impresoras mas pequenos o menos fino.
 
-<img src="img/modelo_B.png"  width="200px">
+![w20p](img/modelo_B.png)
 
 ### Madrid Modelo B V2
 
 El mismo Modelo que la Version B, solo conjuntado para pequenas Impresoras (20x20cm) y con los "" diferente
 
-<img src="img/modelo_B_2.png"  width="200px">
+![w20p](img/modelo_B_2.png)
 
 ### Como montar el Modelo A
 
@@ -44,7 +44,7 @@ NO SE PUEDE USAR PARA EL USO SANITARIO!
 
 Las Punzones en cuando se imprimen se tienen que cambiar de Escala 98% a 104%, depende la maquina. 
 
-<img src="img/punzones.png"  width="200px">
+![w20p](img/punzones.png)
 
 ##### Como montar el Punzon 1 en la Visera
 
@@ -61,37 +61,37 @@ Las Punzones en cuando se imprimen se tienen que cambiar de Escala 98% a 104%, d
  
 EN TETUAN NO SE USA!
 
-<img src="img/Sujecciones_Pantalla_Acetato.png"  width="200px">
+![w20p](img/Sujecciones_Pantalla_Acetato.png)
 
 
 #### Adaptador Tornillos 15mm
 
 Un Adaptador para Tornillos de 15mm. Se mete dentro de la Visera y se aprieta con el Tornillo.
 
-<img src="img/adaptador_15mm.png"  width="200px">
+![w20p](img/adaptador_15mm.png)
 
 ## MODELOS para uso no Sanitario (Residencias, Farmacias, Tiendas, etc)
 
 
 ###  Gregorio Maranon V3
 
-<img src="img/GM_v3.png"  width="200px">
+![w20p](img/GM_v3.png)
 
 ###  Gregorio Maranon V2
 
-<img src="img/GM_v2.png"  width="200px">
+![w20p](img/GM_v2.png)
 
 ###  Visor Europeo V1
 
-<img src="img/visor_europeo_v1.png"  width="200px">
+![w20p](img/visor_europeo_v1.png)
 
 ### Visor Europeo V2.1
 
-<img src="img/visor_europeo_v2_1.png"  width="200px">
+![w20p](img/visor_europeo_v2_1.png)
 
 ### Visera Plana ultima version
 
-<img src="img/Visera_Plana_1.png"  width="200px">
+![w20p](img/Visera_Plana_1.png)
 
 Esta Version no se usa mucho ya porque para fijar las Pantallas PVC se tiene que trabajar con Pegamiento o Soldadura y se quita cuando esta limpiado con Lejilla o Alcool.
 
@@ -99,7 +99,7 @@ NO ACCEPTAMOS ESTAS VISERAS PARA ENTREGAS (en Tetuan)
 
 ### Visor Hibrido
 
-<img src="img/Visor_Hibrido.png"  width="200px">
+![w20p](img/Visor_Hibrido.png)
 
 ## Tests de Resistencia
 
