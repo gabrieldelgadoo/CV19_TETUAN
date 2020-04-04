@@ -9,10 +9,10 @@ max-height: 30em;
 box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
-img[alt="w10p"] {max-width: 10%;margin-left:50%;}
-img[alt="w20p"] {max-width: 20%;margin-left:35%;}
-img[alt="w30p"] {max-width: 30%;margin-left:30%;}
-img[alt="w50p"] {max-width: 50%;margin-left:25%;}
+img[alt="w10p"] {max-width: 10%;}
+img[alt="w20p"] {max-width: 20%;}
+img[alt="w30p"] {max-width: 30%;}
+img[alt="w50p"] {max-width: 50%;}
 
 
  .ethical-dark-theme .ethical-sidebar  { display: none!important;
