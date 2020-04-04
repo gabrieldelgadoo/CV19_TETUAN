@@ -12,6 +12,8 @@ Comprobado con Modelo A, GM
 
 Comprobado con Modelo A
 
+![](configs/Ender3/1_Modelo_A.jpg)
+
 [Cura Profile](configs/Ender3/Ender_Stock.curaprofile)
 
 

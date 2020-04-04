@@ -22,6 +22,8 @@ El modelo anteriormente acceptado de la Comunidad de Madrid. Tambien llamado "Ve
 
 ![w30p](img/Modelo_A.png)
 
+- Tiempo de Impresion: 1:44min con Prusa MKS3
+
 ### Madrid Modelo B
 
 El mismo Modelo que la Version A, pero para imprimir en partes para Impresoras mas pequenos o menos fino.
@@ -56,9 +58,7 @@ Las Punzones en cuando se imprimen se tienen que cambiar de Escala 98% a 104%, d
 
 ##### Como tiene que ser el Punzon LH en la Visera
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
-<iframe src="http://www.youtube.com/embed/sJSS7nHbj0w" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
-</div>
+<iframe src="https://www.youtube.com/embed/sJSS7nHbj0w" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
 
 ##### Sujecciones Pantalla Acetato ????
  Existe pero no lo hemos comprobado y no sabes como tendria que funcionar.
@@ -81,17 +81,34 @@ Un Adaptador para Tornillos de 15mm. Se mete dentro de la Visera y se aprieta co
 
 ![w30p](img/GM_v3.png)
 
+Positivo: No necesita Tornillos
+Esta Version deja mas hueco para Gafas que la V2.
+
+- Tiempo de Impresion: 53min (Prusa MKS3)
+
+Comprobado de Resistencia con bano de Lejilla.
+
 ###  Gregorio Maranon V2
 
 ![w30p](img/GM_v2.png)
+
+Positivo: No necesita Tornillos
+- Tiempo de Impresion: 
 
 ###  Visor Europeo V1
 
 ![w30p](img/visor_europeo_v1.png)
 
+- Tiempo de Impresion:
+
+
 ### Visor Europeo V2.1
 
 ![w30p](img/visor_europeo_v2_1.png)
+
+Es una Version de Gregorio Maranon V2, que necesita menos tiempo de Impresion.
+
+- Tiempo de Impresion:
 
 ### Visera Plana ultima version
 
@@ -104,6 +121,8 @@ NO ACCEPTAMOS ESTAS VISERAS PARA ENTREGAS (en Tetuan)
 ### Visor Hibrido
 
 ![w30p](img/Visor_Hibrido.png)
+
+- Tiempo de Impresion:
 
 ## Tests de Resistencia
 
