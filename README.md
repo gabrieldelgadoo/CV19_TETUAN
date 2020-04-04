@@ -17,7 +17,7 @@ Para el uso NO SANITARIO se puede tambien substituir con los Punzones
 
 El modelo anteriormente acceptado de la Comunidad de Madrid. Tambien llamado "Version homologada"
 
-<img src="img/Modelo_A.png" style="max-width:30%;float:left;">
+<img src="img/Modelo_A.png" style="max-width:30%!important;float:left!important;">
 
 ### Madrid Modelo B
 
