@@ -72,6 +72,8 @@ NO ACCEPTAMOS ESTAS VISERAS PARA ENTREGAS (en Tetuan)
 ## Videos HOWTO
 
 ### Como montar el Punzon 1 en la Visera
-
+<p align="center">
+  <img width="356" height="577" src="https://github.com/gabrieldelgadoo/CV19_TETUAN/blob/master/gif/punzones1.gif">
+</p>
 ### Como tiene que ser el Punzon LH en la Visera
 
