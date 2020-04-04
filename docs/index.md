@@ -1,4 +1,4 @@
-# CV19_TETUAN
+CV19_TETUAN
 
 Pagina del Movimiento: [https://covidmadrid.com/](https://covidmadrid.com/)
 
@@ -26,7 +26,7 @@ El mismo Modelo que la Version A, pero para imprimir en partes para Impresoras m
 
 <img src="img/modelo_B.png"  width="200px">
 
-#### Madrid Modelo B V2
+### Madrid Modelo B V2
 
 El mismo Modelo que la Version B, solo conjuntado para pequenas Impresoras (20x20cm) y con los "" diferente
 
