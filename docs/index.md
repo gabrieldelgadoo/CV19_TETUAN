@@ -48,7 +48,7 @@ El mismo Modelo que la Version B, solo conjuntado para pequenas Impresoras (20x2
 
 ![](img/modeloAmanual.jpeg)
 
-<video style="width:100%" controls>
+<video style="width:30%" controls>
   <source src="videos/arandela.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
@@ -77,8 +77,8 @@ Las Punzones en cuando se imprimen se tienen que cambiar de Escala 98% a 104%, d
 
 ##### Como tiene que ser el Punzon LH en la Visera
 
-<video style="width:100%" controls>
-  <source src="videos/colocacion_de_punzones.mp4" type="video/mp4">
+<video style="width:30%" controls>
+  <source src="videos/colocpunzon.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 
@@ -181,7 +181,7 @@ VALIDO PARA USO NO SANITARIO (Tiendas, etc.), SI pasa el test de Resistencia
 
 ###  Ejemplo resistencia de arandelas:
 
-<video style="width:100%" controls>
+<video style="width:30%" controls>
   <source src="videos/arandela_test.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
