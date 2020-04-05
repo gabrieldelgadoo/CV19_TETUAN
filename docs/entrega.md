@@ -76,5 +76,10 @@ Tenemos contacto con el 091 y los Mensajeros y les recogen en casa de cada uno q
 Pedidos por nuestra Zona por favor a mi por Telegram o correo mordondro@gmail.com
 (Sanitarios “privados”, Residencias de Ancianos, Supermercados, Tiendas, etc.)
 
+### Quiero anadir algo
+
+Puedes hacer un Pull Request aqui: [https://github.com/gabrieldelgadoo/CV19_TETUAN](https://github.com/gabrieldelgadoo/CV19_TETUAN)
+
+O escribir a mordondro[]gmail.com o @mordondro en telegram
 
 

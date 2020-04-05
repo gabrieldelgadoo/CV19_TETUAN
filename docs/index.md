@@ -12,6 +12,8 @@ EPI's -  Impresión 3D
 
 Los Modelos A + B necesitan Tornillos de M4x8mm o M5x8-10mm o M6x8-10mm de ACERO INOXIDABLE para fijar las Viseras. 
 
+![](img/tuerca.png)
+
 Para Tornillos de 15mm longitud existe un adaptador.
 
 Para el uso NO SANITARIO se puede tambien substituir con los Punzones
@@ -24,11 +26,15 @@ El modelo anteriormente acceptado de la Comunidad de Madrid. Tambien llamado "Ve
 
 - Tiempo de Impresion: 1:44min con Prusa MKS3
 
+[Archivos STL](https://github.com/gabrieldelgadoo/CV19_TETUAN/tree/master/archivos%20STL)
+
 ### Madrid Modelo B
 
 El mismo Modelo que la Version A, pero para imprimir en partes para Impresoras mas pequenos o menos fino.
 
 ![w30p](img/modelo_B.png)
+
+[Archivos STL](https://github.com/gabrieldelgadoo/CV19_TETUAN/tree/master/archivos%20STL)
 
 ### Madrid Modelo B V2
 
@@ -36,9 +42,20 @@ El mismo Modelo que la Version B, solo conjuntado para pequenas Impresoras (20x2
 
 ![w30p](img/modelo_B_2.png)
 
+[Archivos STL](https://github.com/gabrieldelgadoo/CV19_TETUAN/tree/master/archivos%20STL)
+
 ### Como montar el Modelo A
 
-FOTO ARANDELAS Y TORNILLOS
+![](img/modeloAmanual.jpeg)
+
+<video style="width:100%" controls>
+  <source src="/videos/arandela.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+![w30p](img/Arandela1.jpg)
+![w30p](img/Arandela2.jpg)
+
 
 ### Accesorios para Model A
 
@@ -49,6 +66,8 @@ NO SE PUEDE USAR PARA EL USO SANITARIO!
 Las Punzones en cuando se imprimen se tienen que cambiar de Escala 98% a 104%, depende la maquina. 
 
 ![w30p](img/punzones.png)
+
+[Archivos STL](https://github.com/gabrieldelgadoo/CV19_TETUAN/tree/master/archivos%20STL)
 
 ##### Como montar el Punzon 1 en la Visera
 
@@ -74,6 +93,8 @@ Un Adaptador para Tornillos de 15mm. Se mete dentro de la Visera y se aprieta co
 
 ![w30p](img/adaptador_15mm.png)
 
+[Archivos STL](https://github.com/gabrieldelgadoo/CV19_TETUAN/tree/master/archivos%20STL)
+
 ## MODELOS para uso no Sanitario (Residencias, Farmacias, Tiendas, etc)
 
 
@@ -88,6 +109,8 @@ Esta Version deja mas hueco para Gafas que la V2.
 
 Comprobado de Resistencia con bano de Lejilla.
 
+[Archivos STL](https://github.com/gabrieldelgadoo/CV19_TETUAN/tree/master/archivos%20STL)
+
 ###  Gregorio Maranon V2
 
 ![w30p](img/GM_v2.png)
@@ -95,12 +118,15 @@ Comprobado de Resistencia con bano de Lejilla.
 Positivo: No necesita Tornillos
 - Tiempo de Impresion: 
 
+[Archivos STL](https://github.com/gabrieldelgadoo/CV19_TETUAN/tree/master/archivos%20STL)
+
 ###  Visor Europeo V1
 
 ![w30p](img/visor_europeo_v1.png)
 
 - Tiempo de Impresion:
 
+[Archivos STL](https://github.com/gabrieldelgadoo/CV19_TETUAN/tree/master/archivos%20STL)
 
 ### Visor Europeo V2.1
 
@@ -110,6 +136,8 @@ Es una Version de Gregorio Maranon V2, que necesita menos tiempo de Impresion.
 
 - Tiempo de Impresion:
 
+[Archivos STL](https://github.com/gabrieldelgadoo/CV19_TETUAN/tree/master/archivos%20STL)
+
 ### Visera Plana ultima version
 
 ![w30p](img/Visera_Plana_1.png)
@@ -118,15 +146,48 @@ Esta Version no se usa mucho ya porque para fijar las Pantallas PVC se tiene que
 
 NO ACCEPTAMOS ESTAS VISERAS PARA ENTREGAS (en Tetuan)
 
+[Archivos STL](https://github.com/gabrieldelgadoo/CV19_TETUAN/tree/master/archivos%20STL)
+
 ### Visor Hibrido
 
 ![w30p](img/Visor_Hibrido.png)
 
 - Tiempo de Impresion:
 
+[Archivos STL](https://github.com/gabrieldelgadoo/CV19_TETUAN/tree/master/archivos%20STL)
+
+## Tests de Calidad
+
+Para el uso Sanitario y tambien no sanitario es muy importante, que las viseras estan de buena calidad.
+
+Que no hay capas mal hechas, etc.
+
+Si ves, que tu modelo tiene imperfecciones tienes que hacer el test de resistencia a ver si puede valer todavia para el uso no sanitario.
+
+Si no es asi, a la basura.
+
+ES MUCHO MEJOR TIRAR UNA VISERA QUE ENTREGARLA EN MAL ESTADO Y PONER EN RIESGO LA GENTE TRABAJANDO!
+
+
 ## Tests de Resistencia
 
-TEXT: Lejilla, etc. etc.
+Para verificar la calidad de tu diseno hay que hacer multiples cosas.
+
+ANTES DE ENTREGAR UNA NUEVA VERSION DE VISERAS:
+Una vez por diseno y configuracion tienes que hacerte un bano de lejilla (1:10) y submergir la Visera 5-6 horas.
+
+![w30p](img/banolejilla.jpg)
+
+Despues haces estes Tests de Resistencia.
+
+Esto hacemos porque en hospitales etc. las viseras se limpian con lejilla o alcool y es muy importante que aguantan un uso fuerte y abusivo.
+
+Si tu Visera despues de submergirla en la lejilla aguanta de esta manera estas bien:
+
+
+CON CADA VISERA ANTES DE ENTREGARLA:
+
+Haces un test de Resistencia rapido.
 
 <p align="left">
   <img width="356" height="577" src="gif/r1.gif">
@@ -139,11 +200,18 @@ TEXT: Lejilla, etc. etc.
 </p>
 
 
+
 ## Videos HOWTO
 
 ....
 
 ## Troubleshooting
+
+### Quiero anadir algo
+
+Puedes hacer un Pull Request aqui: [https://github.com/gabrieldelgadoo/CV19_TETUAN](https://github.com/gabrieldelgadoo/CV19_TETUAN)
+
+O escribir a mordondro[]gmail.com o @mordondro en telegram
 
 ### Que hacer cuando no pega el Parte trasera del Modela A.
 
@@ -151,7 +219,7 @@ TEXT: Lejilla, etc. etc.
 
 ### Con que Configuraciones imprimir?
 
-..
+Hay un parte para configuraciones en este
 
 
 

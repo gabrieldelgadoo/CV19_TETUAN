@@ -17,3 +17,8 @@ Comprobado con Modelo A
 [Cura Profile](configs/Ender3/Ender_Stock.curaprofile)
 
 
+### Quiero anadir algo
+
+Puedes hacer un Pull Request aqui: [https://github.com/gabrieldelgadoo/CV19_TETUAN](https://github.com/gabrieldelgadoo/CV19_TETUAN)
+
+O escribir a mordondro[]gmail.com o @mordondro en telegram
