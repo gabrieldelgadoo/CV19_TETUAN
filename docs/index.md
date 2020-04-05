@@ -173,19 +173,25 @@ Si no es asi, a la basura.
 
 ES MUCHO MEJOR TIRAR UNA VISERA QUE ENTREGARLA EN MAL ESTADO Y PONER EN RIESGO LA GENTE TRABAJANDO!
 
-
-Ejemplo Modelo A:
+### Ejemplo Modelo A:
 NO VALIDO PARA USO SANITARIO
 VALIDO PARA USO NO SANITARIO (Tiendas, etc.), SI pasa el test de Resistencia
 
 ![w30p](img/no_valido.jpg)
+
+###  Ejemplo resistencia de arandelas:
+
+<video style="width:100%" controls>
+  <source src="videos/arandela_test.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 
 ## Tests de Resistencia
 
 Para verificar la calidad de tu diseno hay que hacer multiples cosas.
 
-ANTES DE ENTREGAR UNA NUEVA VERSION DE VISERAS:
+### ANTES DE ENTREGAR UNA NUEVA VERSION DE VISERAS:
 Una vez por diseno y configuracion tienes que hacerte un bano de lejilla (1:10) y submergir la Visera 5-6 horas.
 
 ![w30p](img/banolejilla.jpg)
@@ -197,7 +203,7 @@ Esto hacemos porque en hospitales etc. las viseras se limpian con lejilla o alco
 Si tu Visera despues de submergirla en la lejilla aguanta de esta manera estas bien:
 
 
-CON CADA VISERA ANTES DE ENTREGARLA:
+### CON CADA VISERA ANTES DE ENTREGARLA:
 
 Haces un test de Resistencia rapido.
 
