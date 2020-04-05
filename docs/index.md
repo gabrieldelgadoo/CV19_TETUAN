@@ -49,7 +49,7 @@ El mismo Modelo que la Version B, solo conjuntado para pequenas Impresoras (20x2
 ![](img/modeloAmanual.jpeg)
 
 <video style="width:100%" controls>
-  <source src="/videos/arandela.mp4" type="video/mp4">
+  <source src="videos/arandela.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 
@@ -77,7 +77,10 @@ Las Punzones en cuando se imprimen se tienen que cambiar de Escala 98% a 104%, d
 
 ##### Como tiene que ser el Punzon LH en la Visera
 
-<iframe src="https://www.youtube.com/embed/sJSS7nHbj0w" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+<video style="width:100%" controls>
+  <source src="videos/colocacion_de_punzones.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 ##### Sujecciones Pantalla Acetato ????
  Existe pero no lo hemos comprobado y no sabes como tendria que funcionar.
@@ -104,6 +107,8 @@ Un Adaptador para Tornillos de 15mm. Se mete dentro de la Visera y se aprieta co
 
 Positivo: No necesita Tornillos
 Esta Version deja mas hueco para Gafas que la V2.
+
+![w30p](img/diferencia_GM.jpg)
 
 - Tiempo de Impresion: 53min (Prusa MKS3)
 
@@ -169,6 +174,13 @@ Si no es asi, a la basura.
 ES MUCHO MEJOR TIRAR UNA VISERA QUE ENTREGARLA EN MAL ESTADO Y PONER EN RIESGO LA GENTE TRABAJANDO!
 
 
+Ejemplo Modelo A:
+NO VALIDO PARA USO SANITARIO
+VALIDO PARA USO NO SANITARIO (Tiendas, etc.), SI pasa el test de Resistencia
+
+![w30p](img/no_valido.jpg)
+
+
 ## Tests de Resistencia
 
 Para verificar la calidad de tu diseno hay que hacer multiples cosas.
@@ -215,7 +227,10 @@ O escribir a mordondro[]gmail.com o @mordondro en telegram
 
 ### Que hacer cuando no pega el Parte trasera del Modela A.
 
-..…
+![w30p](img/Alevanta.jpg)
+
+1) Meter Pegamento
+2) Intentar imprimir ahi con soportes o brim
 
 ### Con que Configuraciones imprimir?
 
