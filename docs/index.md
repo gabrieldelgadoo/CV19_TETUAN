@@ -26,6 +26,10 @@ El modelo anteriormente acceptado de la Comunidad de Madrid. Tambien llamado "Ve
 
 - Tiempo de Impresion: 1:44min con Prusa MKS3
 
+Existe un Modelo con Puntos de Fijacion:
+
+![w30p](img/modeloA_fijacion.png)
+
 [Archivos STL](https://github.com/gabrieldelgadoo/CV19_TETUAN/tree/master/archivos%20STL)
 
 ### Madrid Modelo B
@@ -100,6 +104,16 @@ Un Adaptador para Tornillos de 15mm. Se mete dentro de la Visera y se aprieta co
 
 ## MODELOS para uso no Sanitario (Residencias, Farmacias, Tiendas, etc)
 
+###  Gregorio Maranon V3_Tetuan
+
+![w30p](img/GM_V3_Tetuan.png)
+
+Positivo de la version:
+1) mas comodo para el usuario
+2) el mismo tiempo de impresion que la V3
+
+- Tiempo de Impresion: 1h (Prusa MKS3)
+
 
 ###  Gregorio Maranon V3
 
@@ -125,13 +139,6 @@ Positivo: No necesita Tornillos
 
 [Archivos STL](https://github.com/gabrieldelgadoo/CV19_TETUAN/tree/master/archivos%20STL)
 
-###  Visor Europeo V1
-
-![w30p](img/visor_europeo_v1.png)
-
-- Tiempo de Impresion:
-
-[Archivos STL](https://github.com/gabrieldelgadoo/CV19_TETUAN/tree/master/archivos%20STL)
 
 ### Visor Europeo V2.1
 
@@ -143,6 +150,18 @@ Es una Version de Gregorio Maranon V2, que necesita menos tiempo de Impresion.
 
 [Archivos STL](https://github.com/gabrieldelgadoo/CV19_TETUAN/tree/master/archivos%20STL)
 
+
+### Visor Hibrido
+
+![w30p](img/Visor_Hibrido.png)
+
+- Tiempo de Impresion:
+
+[Archivos STL](https://github.com/gabrieldelgadoo/CV19_TETUAN/tree/master/archivos%20STL)
+
+
+## MODELOS QUE NO SE USAN! (comprobado)
+
 ### Visera Plana ultima version
 
 ![w30p](img/Visera_Plana_1.png)
@@ -153,13 +172,24 @@ NO ACCEPTAMOS ESTAS VISERAS PARA ENTREGAS (en Tetuan)
 
 [Archivos STL](https://github.com/gabrieldelgadoo/CV19_TETUAN/tree/master/archivos%20STL)
 
-### Visor Hibrido
+### Visera bescobarca
 
-![w30p](img/Visor_Hibrido.png)
+![w30p](img/bescobarca.png)
 
-- Tiempo de Impresion:
+Este Version es muy rapido pero no se puede asegurar que la Pantalla se queda fijo.
 
-[Archivos STL](https://github.com/gabrieldelgadoo/CV19_TETUAN/tree/master/archivos%20STL)
+NO ACCEPTAMOS ESTAS VISERAS PARA ENTREGAS (en Tetuan)
+
+[https://www.thingiverse.com/thing:4251325/files](https://www.thingiverse.com/thing:4251325/files)
+
+###  Visor Europeo V1
+
+![w30p](img/visor_europeo_v1.png)
+
+Este Version es muy rapido pero no se puede asegurar que la Pantalla se queda fijo, si no se usan Tornillos y Tuercas (Punzones no funcionan). Y Tuercas y Tornillos estan escaso y mejor usado para Modelo A+B.
+
+NO ACCEPTAMOS ESTAS VISERAS PARA ENTREGAS (en Tetuan)
+
 
 ## Tests de Calidad
 
@@ -237,6 +267,12 @@ O escribir a mordondro[]gmail.com o @mordondro en telegram
 
 1) Meter Pegamento
 2) Intentar imprimir ahi con soportes o brim
+
+O tambien existe un Modelo con Puntos de Fijacion:
+
+![w30p](img/modeloA_fijacion.png)
+
+[Archivos STL](https://github.com/gabrieldelgadoo/CV19_TETUAN/tree/master/archivos%20STL)
 
 ### Con que Configuraciones imprimir?
 
