@@ -81,18 +81,21 @@ Las Punzones en cuando se imprimen se tienen que cambiar de Escala 98% a 104%, d
 
 [Archivos STL](https://github.com/gabrieldelgadoo/CV19_TETUAN/tree/master/archivos%20STL)
 
-##### Como montar el Punzon 1 en la Visera
-
-<p align="left">
-  <img width="300" src="gif/punzones1.gif">
-</p>
-
-##### Como tiene que ser el Punzon LH en la Visera
+##### Como montar el Punzon (Adrian) en la Visera
 
 <video style="width:50%" controls>
   <source src="videos/colocpunzon.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
+
+##### Punzon LH en la Visera
+
+ATENCION! En Tetuan solo se admite el PUNZON Adrian!
+
+<p align="left">
+  <img width="300" src="gif/punzones1.gif">
+</p>
+
 
 ##### Sujecciones Pantalla Acetato ????
  Existe pero no lo hemos comprobado y no sabes como tendria que funcionar.
@@ -116,13 +119,14 @@ Un Adaptador para Tornillos de 15mm. Se mete dentro de la Visera y se aprieta co
 
 ![w30p](img/GM_V3_Tetuan.png)
 
-Positivo de la version:
+Mejoras desde la Version 3:
 1) mas comodo para el usuario
-2) el mismo tiempo de impresion que la V3
+2) Muy flexible y dificil a romper (Como la Visera Europeo 2.1)
+3) el mismo tiempo de impresion que la V3
 
 - Tiempo de Impresion: 1h (Prusa MKS3)
 
-EN PRUEBAS.
+[Archivos STL](https://github.com/gabrieldelgadoo/CV19_TETUAN/tree/master/archivos%20STL)
 
 ###  Gregorio Maranon V3
 
