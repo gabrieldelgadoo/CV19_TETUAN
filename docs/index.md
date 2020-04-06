@@ -32,6 +32,14 @@ Existe un Modelo con Puntos de Fijacion:
 
 [Archivos STL](https://github.com/gabrieldelgadoo/CV19_TETUAN/tree/master/archivos%20STL)
 
+#### Madrid Modelo A V2 (AdrianLS)
+
+Una mejora de la Version V1 para que no se pueden separar los partes.
+
+![w30p](img/modeloA_v2.png)
+
+[Archivos STL](https://github.com/gabrieldelgadoo/CV19_TETUAN/tree/master/archivos%20STL)
+
 ### Madrid Modelo B
 
 El mismo Modelo que la Version A, pero para imprimir en partes para Impresoras mas pequenos o menos fino.
@@ -40,9 +48,9 @@ El mismo Modelo que la Version A, pero para imprimir en partes para Impresoras m
 
 [Archivos STL](https://github.com/gabrieldelgadoo/CV19_TETUAN/tree/master/archivos%20STL)
 
-### Madrid Modelo B V2
+#### Madrid Modelo B V2
 
-El mismo Modelo que la Version B, solo conjuntado para pequenas Impresoras (20x20cm) y con los "" diferente
+El mismo Modelo que la Version B, solo conjuntado para pequenas Impresoras (20x20cm) y con los Punzones diferente
 
 ![w30p](img/modelo_B_2.png)
 
@@ -114,6 +122,7 @@ Positivo de la version:
 
 - Tiempo de Impresion: 1h (Prusa MKS3)
 
+EN PRUEBAS.
 
 ###  Gregorio Maranon V3
 
