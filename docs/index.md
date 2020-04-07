@@ -128,6 +128,23 @@ Mejoras desde la Version 3:
 
 [Archivos STL](https://github.com/gabrieldelgadoo/CV19_TETUAN/tree/master/archivos%20STL)
 
+###  GM V3_Tetuan 2x Cama 21x23 (Prusa)
+
+![w30p](img/GM_V3_Tetuan_2x.png)
+
+Por Ejemplo: Prusa MKS3
+
+###  GM V3_Tetuan 2x Cama 22x22 (Ender 3)
+
+![w30p](img/GM_V3_Tetuan_2x.png)
+
+Por Ejemplo: Ender 3
+
+Un poco mas pequeno que la Version normal, pero funciona igual.
+
+![w30p](img/GM_V3_Tetuan_22x22.png)
+
+
 ###  Gregorio Maranon V3
 
 ![w30p](img/GM_v3.png)
