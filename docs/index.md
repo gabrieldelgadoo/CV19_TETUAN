@@ -7,6 +7,10 @@ Pagina del Movimiento: [https://covidmadrid.com/](https://covidmadrid.com/)
 EPI's -  Impresión 3D
 
 ![](img/corona.png)
+![w30p](img/GM_V3_Tetuan.png)
+GM_V3_Tetuan
+![w30p](img/modeloA_v2.png)
+Modelo A V2 (AdrianLS)
 
 ## MODELOS para uso Sanitario/Hospitales/Centros de Salud, et.
 
@@ -17,6 +21,14 @@ Los Modelos A + B necesitan Tornillos de M4x8mm o M5x8-10mm o M6x8-10mm de ACERO
 Para Tornillos de 15mm longitud existe un adaptador.
 
 Para el uso NO SANITARIO se puede tambien substituir con los Punzones
+
+#### Madrid Modelo A V2 (AdrianLS)
+
+Una mejora de la Version V1 para que no se pueden separar los partes.
+
+![w30p](img/modeloA_v2.png)
+
+[Archivos STL](https://github.com/gabrieldelgadoo/CV19_TETUAN/tree/master/archivos%20STL)
 
 ### Madrid Modelo A
 
@@ -32,13 +44,6 @@ Existe un Modelo con Puntos de Fijacion:
 
 [Archivos STL](https://github.com/gabrieldelgadoo/CV19_TETUAN/tree/master/archivos%20STL)
 
-#### Madrid Modelo A V2 (AdrianLS)
-
-Una mejora de la Version V1 para que no se pueden separar los partes.
-
-![w30p](img/modeloA_v2.png)
-
-[Archivos STL](https://github.com/gabrieldelgadoo/CV19_TETUAN/tree/master/archivos%20STL)
 
 ### Madrid Modelo B
 
@@ -90,6 +95,8 @@ Your browser does not support the video tag.
 
 ##### Punzon LH en la Visera
 
+Este Punzon entra mejor, pero tambien sale mejor.
+
 ATENCION! En Tetuan solo se admite el PUNZON Adrian!
 
 <p align="left">
@@ -128,13 +135,13 @@ Mejoras desde la Version 3:
 
 [Archivos STL](https://github.com/gabrieldelgadoo/CV19_TETUAN/tree/master/archivos%20STL)
 
-###  GM V3_Tetuan 2x Cama 21x23 (Prusa)
+####  GM V3_Tetuan 2x Cama 21x23 (Prusa)
 
 ![w30p](img/GM_V3_Tetuan_2x.png)
 
 Por Ejemplo: Prusa MKS3
 
-###  GM V3_Tetuan 2x Cama 22x22 (Ender 3)
+####  GM V3_Tetuan 2x Cama 22x22 (Ender 3)
 
 ![w30p](img/GM_V3_Tetuan_2x.png)
 
